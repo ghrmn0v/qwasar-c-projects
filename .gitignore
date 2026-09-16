@@ -1,0 +1,10 @@
+# Build artifacts
+*.o
+*.a
+my_mastermind
+a.out
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
