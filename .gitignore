@@ -1,8 +1,8 @@
 # Build artifacts
 *.o
 *.a
-my_mastermind
 a.out
+/my_mastermind/my_mastermind
 
 # IDE / OS
 .vscode/
